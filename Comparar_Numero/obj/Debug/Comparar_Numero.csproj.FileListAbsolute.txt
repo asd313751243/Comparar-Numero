@@ -1,0 +1,7 @@
+E:\ITLA\ITLA\5to cuatri\Programacion III\Tarea 2\Comparar_Numero\Comparar_Numero\bin\Debug\Comparar_Numero.exe.config
+E:\ITLA\ITLA\5to cuatri\Programacion III\Tarea 2\Comparar_Numero\Comparar_Numero\bin\Debug\Comparar_Numero.exe
+E:\ITLA\ITLA\5to cuatri\Programacion III\Tarea 2\Comparar_Numero\Comparar_Numero\bin\Debug\Comparar_Numero.pdb
+E:\ITLA\ITLA\5to cuatri\Programacion III\Tarea 2\Comparar_Numero\Comparar_Numero\obj\Debug\Comparar_Numero.csprojAssemblyReference.cache
+E:\ITLA\ITLA\5to cuatri\Programacion III\Tarea 2\Comparar_Numero\Comparar_Numero\obj\Debug\Comparar_Numero.csproj.CoreCompileInputs.cache
+E:\ITLA\ITLA\5to cuatri\Programacion III\Tarea 2\Comparar_Numero\Comparar_Numero\obj\Debug\Comparar_Numero.exe
+E:\ITLA\ITLA\5to cuatri\Programacion III\Tarea 2\Comparar_Numero\Comparar_Numero\obj\Debug\Comparar_Numero.pdb
